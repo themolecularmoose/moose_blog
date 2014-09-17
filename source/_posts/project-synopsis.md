@@ -1,9 +1,9 @@
 title: Project Synopsis
 date: 2014-09-17 01:03:00
-tags:
+tags: 
 ---
 
-**3D Molecule Game Synopsis** 
+**3D Molecule Game** 
 
 
 The focus of this project is to bridge the gap between the “hieroglyphic” molecular representations taught in the chemistry classroom and the physical reality of those molecules. 
