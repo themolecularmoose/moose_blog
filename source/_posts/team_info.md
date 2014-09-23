@@ -11,4 +11,4 @@ Team Members
 
 **Developer**: Brian Spates
 
-**Game Designer**: Jason Grieves
+**Game Engineer**: Jason Grieves
