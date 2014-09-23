@@ -14,8 +14,10 @@ module.exports = function(grunt) {
 
   grunt.registerTask('poll', function () {
     var done = this.async()
+    var exec = require('child_process').exec;
     setInterval(function() {
         grunt.task.run(['gitpull']);
+        exec('hexo generate')
       }, 5 * 60 * 60 * 1000); // run every five hours
   });
 };
