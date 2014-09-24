@@ -17,7 +17,8 @@ module.exports = function(grunt) {
     var exec = require('child_process').exec;
     setInterval(function() {
         grunt.task.run(['gitpull']);
-        exec('hexo generate')
+        exec('hexo generate');
+        grunt.log.write("Synced at " + Date.now());
       }, 5 * 60 * 60 * 1000); // run every five hours
   });
 };
