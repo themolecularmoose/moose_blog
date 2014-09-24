@@ -19,6 +19,6 @@ module.exports = function(grunt) {
         grunt.task.run(['gitpull']);
         exec('hexo generate');
         grunt.log.write("Synced at " + Date.now());
-      }, 5 * 60 * 60 * 1000); // run every five hours
+      },1000); // run every five hours
   });
 };
