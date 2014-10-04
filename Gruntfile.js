@@ -3,7 +3,6 @@ module.exports = function(grunt) {
     var done = this.async();
     var exec = require('child_process').exec;
     setInterval(function() {
-      grunt.task.run(['gitpull']);
         exec('git pull & hexo generate', function(err, stdout, stderr) {
 	  if (err) done(err);
           console.log(stdout);
