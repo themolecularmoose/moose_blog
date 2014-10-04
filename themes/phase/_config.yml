@@ -1,0 +1,24 @@
+menu:
+  Home: /~the-moose/
+  Scrum Board: /~the-moose/scrum
+  Deliverables: /~the-moose/links
+  Team: /~the-moose/team
+  Archives: /~the-moose/archives
+  
+
+addthis:
+  enable: true
+  pubid:
+  facebook: true
+  twitter: true
+  google: true
+  pinterest: true
+
+facebook:
+google_plus:
+twitter:
+github:
+
+fancybox: true
+google_analytics:
+rss:
