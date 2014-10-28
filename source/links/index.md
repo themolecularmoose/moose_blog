@@ -8,4 +8,4 @@ date: 2014-10-04 13:36:55
 * **[Source Code](https://github.com/themolecularmoose)**
 * **[Stagging Application Website](http://obscure-temple-1449.herokuapp.com/)**
 * **[Game Design Doc](https://docs.google.com/a/g.rit.edu/document/d/1hFg3f_rudRAepsvTqak2ZgtY-aPpSqqjpCFRA4lGmME/edit?usp=sharing)**
-* **[Chemistry Principles](https://docs.google.com/document/d/1OHqx-rApqLf4-mAsulKTlWywporkallYrwQ8aJ6XtVo/edit?usp=sharing)
+* **[Chemistry Principles](https://docs.google.com/document/d/1OHqx-rApqLf4-mAsulKTlWywporkallYrwQ8aJ6XtVo/edit?usp=sharing)**
