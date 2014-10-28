@@ -7,3 +7,4 @@ date: 2014-10-04 13:36:55
 * **[Risks](https://docs.google.com/a/g.rit.edu/spreadsheets/d/1Ct4ggxLZtg8AcR5QtwnkE26UyNElbfGBfZOQm1G7x08/edit?usp=sharing)**
 * **[Source Code](https://github.com/themolecularmoose)**
 * **[Stageing Application Website](http://obscure-temple-1449.herokuapp.com/)**
+* **[Game Design Doc](https://docs.google.com/a/g.rit.edu/document/d/1hFg3f_rudRAepsvTqak2ZgtY-aPpSqqjpCFRA4lGmME/edit?usp=sharing)**
